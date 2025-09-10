@@ -15,5 +15,6 @@ public class AppLauncherTest extends BaseTest {
 		al.openSalesConsole();
 		
 		System.out.println("Title of Sales Console is " + driver.getTitle());
+		//Test PR
 	}
 }
